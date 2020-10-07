@@ -8,7 +8,6 @@ import './index.css';
 function App() {
   return (    
     <Provider store={store}>
-      <div>HELLO</div>
       <InboxScreen />
     </Provider>
   );
